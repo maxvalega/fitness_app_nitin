@@ -10,7 +10,6 @@ class LatestActivityRow extends StatelessWidget {
     
     return Container(
         margin: const EdgeInsets.symmetric(vertical: 8),
-       
         child: Row(
           children: [
             ClipRRect(

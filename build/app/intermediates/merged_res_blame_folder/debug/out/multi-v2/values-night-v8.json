@@ -4,7 +4,7 @@
             "outputFile": "com.codeforany.fitness.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "E:\\Fitness App\\fitness_app_nitin\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "E:\\Nitin_fitness_app\\fitness_app_nitin\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

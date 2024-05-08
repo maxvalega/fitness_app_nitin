@@ -1,4 +1,4 @@
-#Wed May 08 15:58:36 IST 2024
-base.0=E\:\\Fitness App\\fitness_app_nitin\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed May 08 16:27:32 IST 2024
+base.0=E\:\\Nitin_fitness_app\\fitness_app_nitin\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

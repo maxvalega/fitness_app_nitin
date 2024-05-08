@@ -124,7 +124,7 @@
             "outputFile": "com.codeforany.fitness.app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Prathap C\\test\\fitness_workout_app_flutter_3_ui\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "E:\\Fitness App\\fitness_app_nitin\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -329,7 +329,7 @@
             "outputFile": "com.codeforany.fitness.app-merged_res-11:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Prathap C\\test\\fitness_workout_app_flutter_3_ui\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\Fitness App\\fitness_app_nitin\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

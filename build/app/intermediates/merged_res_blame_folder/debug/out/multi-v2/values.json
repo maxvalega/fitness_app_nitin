@@ -4,7 +4,7 @@
             "outputFile": "com.codeforany.fitness.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Prathap C\\test\\fitness_workout_app_flutter_3_ui\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\Fitness App\\fitness_app_nitin\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

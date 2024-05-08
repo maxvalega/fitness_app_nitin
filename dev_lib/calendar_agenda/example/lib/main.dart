@@ -27,11 +27,8 @@ class ExamplePage extends StatefulWidget {
 class _ExamplePageState extends State<ExamplePage> {
   CalendarAgendaController _calendarAgendaControllerAppBar =
       CalendarAgendaController();
-  CalendarAgendaController _calendarAgendaControllerNotAppBar =
-      CalendarAgendaController();
 
   late DateTime _selectedDateAppBBar;
-  late DateTime _selectedDateNotAppBBar;
 
   Random random = new Random();
 
@@ -39,7 +36,6 @@ class _ExamplePageState extends State<ExamplePage> {
   void initState() {
     super.initState();
     _selectedDateAppBBar = DateTime.now();
-    _selectedDateNotAppBBar = DateTime.now();
   }
 
   @override
